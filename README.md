@@ -2,7 +2,7 @@
 
 ## to solve a Sudoku
 
-`stack exec sudoku-exe filename`
+`stack exec sudoku-exe -- filename`
 
 ## file format
 Sudoku problems should be stored in the following file format
